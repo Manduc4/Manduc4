@@ -4,7 +4,7 @@
 - 📖 Estou Fazendo o curso CS50 (Computer Science 50), da Universidade de Harvard.
   
 <div>
-<img height='180em' src='https://github-readme-stats.vercel.app/api?username=Manduc4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage'>
+<img height='180em' src='https://github-readme-stats.vercel.app/api?username=Manduc4&show_icons=true&theme=dracula&include_all_commits=true'>
 <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Manduc4&show_icons=true&theme=dracula&layout=compact'>
 </div>
 
