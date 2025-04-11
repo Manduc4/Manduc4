@@ -1,7 +1,5 @@
 ## Olá, me chamo Caio, sou Desenvolvedor FullStack 👋🏽
 
-💻 Atualmente trabalho com Desenvolvimento Web, utilizando React.js no Frontend, e Laravel no Backend.
-  
 <div>
 <img height='180em' src='https://github-readme-stats.vercel.app/api?username=Manduc4&show_icons=true&theme=dracula'>
 <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Manduc4&show_icons=true&theme=dracula&layout=compact'>
@@ -21,7 +19,7 @@
 
 ## Cursos
 <div style='border-radius:5px;border-color:white;border-size=1px;border-style:solid;display:inline-flex;flex-direction=row;justify-content:start;align-items:start;gap:10px;padding:5px'>
-    <h3 color='white'><i>CS50: Introduction to Computer Science</i></h3>
+    <h3 color='white'><i>CS50’s Introduction to Artificial Intelligence with Python</i></h3>
     <p color='white'><b>Status</b>: Em Andamento</p>
     <a href='https://pll.harvard.edu/course/cs50-introduction-computer-science'>Informações sobre o curso</a><br><br>
     <img style='border-radius=10px' height='150em' src="https://pointofview.net/wp-content/uploads/2018/03/Harvard-U.-Logo-Sheild.jpg" />
@@ -29,8 +27,7 @@
 
 ## Contato
 <div> 
-  <a href="https://www.linkedin.com/in/caio-manduca-9b4903297/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/caio_manduc4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://wa.me/5566996565686" target="_blank"><img src="https://img.shields.io/badge/WhatAapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href ="mailto:caiomanducas@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caio-manduca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://wa.me/5566996730333" target="_blank"><img src="https://img.shields.io/badge/WhatAapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href ="mailto:blaiddhu@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
